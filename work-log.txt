@@ -1,0 +1,30 @@
+=================================================================
+25.1.2009 - 4 hodiny
+  - scanner - potenciálně hotovo
+=================================================================
+26.1.2009 - 10 hodin
+  - konstrukce LL gramatiky a podkladů pro precedenční analýzu
+  - parser - nedokončeno
+=================================================================
+27.1.2009 - 10 hodin
+  - parser - předěláno na rekurzivní sestup
+           - potenciálně hotovo
+  - interpret - potenciálně hotovo
+=================================================================
+28.1.2009 - 5 hodin
+  - odhladění pomocí dvou sad testů
+  - kontrola sémantiky operací přemístěna z interpretu do parseru
+  - dopisování dokumentace a refaktorizace kódu
+=================================================================
+31.1.2009 - 2 hodiny
+  - Boyer-Moorův algoritmus
+=================================================================
+
+
+Výsledné srovnání samostatného vývoje překladače (Python)
+a týmové práce v průběhu semestru (C).
+
+         kLOC    hodin práce
+Python   1.25            31
+C        5.5     (odhad) 75
+
